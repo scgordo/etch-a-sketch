@@ -1,0 +1,31 @@
+#container {
+	margin: auto;
+	background-color: #cccccc;
+	border: none;
+	width: 408px;
+	height: 408px;
+}
+
+div {
+	height: 100px;
+	width: 100px;
+	float: left;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.sketched {
+	background-color: yellow;
+}
+
+button {
+	margin-left: 180px;
+}
+
+.reset {
+	height: 100px;
+	width: 100px;
+	float: left;
+	display: inline-block;
+	border: 1px solid black;
+}
